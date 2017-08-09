@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-11-16 17:15+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.11\n"
+"Language: it\n"
+"Project-Id-Version: Plugins CartaSi E-Commerce for WooCommerce - Stable (latest release)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: xpay-cartasi-payment-gateway:34
+msgid "CartaSi X-Pay"
+msgstr "CartaSi X-Pay"
+
+#: xpay-cartasi-payment-gateway:35
+msgid "CartaSi E-commerce credit/debit card payment gateway."
+msgstr "Modulo di pagamento per carte di pagamento."
+
+#: xpay-cartasi-payment-gateway:36
+msgid "Thank you for shopping with us. However, the transaction has been declined."
+msgstr "Grazie per l'acquisto, la transazione tuttavia non è stata autorizzata."
+
+#: xpay-cartasi-payment-gateway:37
+msgid "Thank you for shopping with us. Your account has been charged and your transaction is successful. We will be shipping your order to you soon."
+msgstr "Grazie per l'acquisto, la transazione si è completata con successo, evaderemo l'ordine al più presto."
+
+#: xpay-cartasi-payment-gateway:38
+msgid "CartaSi payment successful<br>Bank Reply Details<br>"
+msgstr "Pagamento avvenuto con successo<br>dettagli transazione<br>"
+
+#: xpay-cartasi-payment-gateway:39
+msgid "Please click the button below to pay with CartaSi."
+msgstr "Fai click qui per effettuare il pagamento."
+
+#: xpay-cartasi-payment-gateway:40
+msgid "Pay via CartaSi"
+msgstr "Paga con CartaSi"
+
+#: xpay-cartasi-payment-gateway:41
+msgid "Cancel order &amp; restore cart"
+msgstr "Annulla ordine"
+
+#: xpay-cartasi-payment-gateway:43
+msgid "Enable/Disable"
+msgstr "Abilita/Disabilita"
+
+#: xpay-cartasi-payment-gateway:44
+msgid "Enable CartaSi Payment Module."
+msgstr "Abilita il modulo di pagamento CartaSi."
+
+#: xpay-cartasi-payment-gateway:45
+msgid "Title:"
+msgstr "Titolo:"
+
+#: xpay-cartasi-payment-gateway:46
+msgid "This controls the title which the user sees during checkout."
+msgstr "Questo è il titolo mostrato al cliente nella pagina di checkout."
+
+#: xpay-cartasi-payment-gateway:47
+msgid "Payment Cards"
+msgstr "Carte di pagamento"
+
+#: xpay-cartasi-payment-gateway:48
+msgid "Description:"
+msgstr "Descrizione:"
+
+#: xpay-cartasi-payment-gateway:49
+msgid "This controls the description which the user sees during checkout."
+msgstr "Questa è la descrizione mostrata al cliente nella pagina di checkout."
+
+#: xpay-cartasi-payment-gateway:50
+msgid "Pay securely by credit and debit card or alternative payment methods through CartaSi. Card accepted:"
+msgstr "Puoi pagare in modo sicuro con carte di credito e debito o con sistemi di pagamento innovativi grazie al servizio offerto da CartaSi. Strumenti accettati:"
+
+#: xpay-cartasi-payment-gateway:51
+msgid "Credit Card Accepted:"
+msgstr "Pagamenti accettati:"
+
+#: xpay-cartasi-payment-gateway:52
+msgid "Choose the credit card scheme by which six agreement."
+msgstr "Scegli le carte di credito e metodi di pagamento accettati"
+
+#: xpay-cartasi-payment-gateway:53
+msgid "CartaSi Alias"
+msgstr "CartaSi Alias"
+
+#: xpay-cartasi-payment-gateway:54
+msgid "Given to Merchant by CartaSi."
+msgstr "Fornito da CartaSi al venditore"
+
+#: xpay-cartasi-payment-gateway:55
+msgid "CartaSi key MAC"
+msgstr "CartaSi chiave MAC"
+
+#: xpay-cartasi-payment-gateway:57
+msgid "Language form"
+msgstr "Lingua pagina di pagamento"
+
+#: xpay-cartasi-payment-gateway:58
+msgid "Select the language for CartaSi form"
+msgstr "Scegli la lingua per la pagina di pagamento"
+
+#: xpay-cartasi-payment-gateway:59
+msgid "Enable/Disable TEST Mode"
+msgstr "Abilita/Disabilita la modalità TEST"
+
+#: xpay-cartasi-payment-gateway:60
+msgid "Enable CartaSi Payment Module in testing mode."
+msgstr "Abilita il modulo CartaSi in modalità TEST"
+
+#: xpay-cartasi-payment-gateway:61
+msgid "CartaSi Alias TEST"
+msgstr "CartaSi Alias TEST"
+
+#: xpay-cartasi-payment-gateway:62
+msgid "Register on <a href='https://ecommerce.cartasi.it/area-test'>ecommerce.cartasi.it/area-test</a> to have TEST's credentials."
+msgstr "Registrati sul sito <a href='https://ecommerce.cartasi.it/area-test'>ecommerce.cartasi.it/area-test</a> per avere le tue credenziali di TEST."
+
+#: xpay-cartasi-payment-gateway:63
+msgid "CartaSi key MAC TEST"
+msgstr "CartaSi chiave MAC TEST"
